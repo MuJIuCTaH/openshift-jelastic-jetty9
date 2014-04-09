@@ -41,4 +41,4 @@ Endpoints:
     Private-Port-Name: APP_PORT
     Private-Port:      8080
     Public-Port-Name:  APP_PROXY_PORT
-
+Valid_Engines = java3
